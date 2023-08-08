@@ -272,3 +272,12 @@ python test.py --cfg ./experiment/test_40_unknown.yaml --seed 5 --name test_40_u
 ### ScarceNet
 
 Go to the [scarcenet](https://github.com/AnonExploreer/ScarceNet) repo (forked from [ScarceNet](https://github.com/chaneyddtt/ScarceNet))
+
+## Contact
+If you have any questions, please contact the authors:
+
+Dan Zeng: zengd@sustech.edu.cn or danzeng1990@gmail.com
+
+Shanchun Hong: shanchuhong@gmail.com
+
+Qiaomu Shen: shenqm@sustech.edu.cn
